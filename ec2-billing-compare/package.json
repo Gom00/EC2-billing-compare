@@ -1,6 +1,6 @@
 {
   "name": "ec2-billing-compare",
-  "homepage": "https://Gom00.github.io/ec2-billing-compare",
+  "homepage": "https://Gom00.github.io/EC2-billing-compare",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
